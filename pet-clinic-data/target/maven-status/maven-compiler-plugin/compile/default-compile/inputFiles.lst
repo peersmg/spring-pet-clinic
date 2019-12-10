@@ -1,5 +1,14 @@
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/map/PetServiceMap.java
 /Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/Pet.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/VetService.java
 /Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/Vet.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/PetService.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/CrudService.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/map/AbstractMapService.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/OwnerService.java
 /Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/Owner.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/map/VetServiceMap.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/BaseEntity.java
 /Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/Person.java
 /Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/model/PetType.java
+/Users/matthewpeers/Documents/Spring Course/spring-pet-clinic/pet-clinic-data/src/main/java/matt/springframework/springpetclinic/services/map/OwnerServiceMap.java
